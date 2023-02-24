@@ -1,0 +1,37 @@
+/*geral*/
+
+* {
+    font-style: sans-serif;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black ;
+}
+
+body {
+    background: url("../html/imagem/2647ba2b1e2c75d64781ee89e34b61b4.jpg") no-repeat;
+}
+
+/*texto*/
+
+ h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: italic;
+ }
+ h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+ }
+ p{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;    
+    font-style: italic;
+}
+    ul{
+        font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;    
+    font-style: italic;
+    }
